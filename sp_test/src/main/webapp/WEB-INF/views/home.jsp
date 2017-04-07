@@ -9,9 +9,7 @@
 <body>
 <h1>
 	Hello world!  
-	https://github.com/sihye/spTest.git
-	sihye
-	rlatlgp1
+	zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 </h1>
 <p>이창호1차</p>
 <P>  The time on the server is ${serverTime}. </P>
