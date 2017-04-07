@@ -9,6 +9,9 @@
 <body>
 <h1>
 	Hello world!  
+	https://github.com/sihye/spTest.git
+	sihye
+	rlatlgp1
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
